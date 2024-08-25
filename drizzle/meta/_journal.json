@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1724621764824,
+      "tag": "0000_classy_sinister_six",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1724622558917,
+      "tag": "0001_rare_thunderbolt",
+      "breakpoints": true
+    }
+  ]
+}
