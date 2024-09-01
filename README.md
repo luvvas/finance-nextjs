@@ -16,7 +16,12 @@
 (V) Header Component;
 (V) Drizzle ORM & Neon Database;
 (V) Accounts GET API;
-( ) Accounts POST API;
+(V) Accounts POST API;
+
+## Commands
+`db:generate` - Generate Schema;
+`db:migrate` - Make migration;
+`db:studio` - Open DB;
 
 ## To study
 - `[[...name]]` in folder structure;

@@ -6,7 +6,7 @@ type newAccountState = {
     onClose: () => void;
 }
 
-export const useNewAccounts = create<newAccountState>((set) => ({
+export const useNewAccount = create<newAccountState>((set) => ({
     isOpen: false,
     onOpen: () => set({ isOpen: true }),
     onClose: () => set({ isOpen: false})

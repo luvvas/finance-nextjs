@@ -6,6 +6,7 @@ import { clerkMiddleware, getAuth } from '@hono/clerk-auth'
 
 import { db } from '@/db/drizzle'
 import { accounts, insertAccountSchema } from '@/db/schema'
+
 const app = new Hono()
     .get(
         "/", 
