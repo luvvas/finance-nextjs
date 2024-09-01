@@ -6,6 +6,8 @@
 - [neon](https://neon.tech) - Database
 - [drizze](https://orm.drizzle.team) - ORM to connect to neon
 - [react-query]
+- [cuid2]
+- [zustand]
 
 ## To-do
 (V) Project Setup;
@@ -13,7 +15,8 @@
 (V) Hono.js setup;
 (V) Header Component;
 (V) Drizzle ORM & Neon Database;
-( ) Accounts GET API;
+(V) Accounts GET API;
+( ) Accounts POST API;
 
 ## To study
 - `[[...name]]` in folder structure;
