@@ -17,6 +17,7 @@
 (V) Drizzle ORM & Neon Database;
 (V) Accounts GET API;
 (V) Accounts POST API;
+(V) Data table component;
 
 ## Commands
 `db:generate` - Generate Schema;
