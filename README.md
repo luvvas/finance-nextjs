@@ -18,6 +18,13 @@
 (V) Accounts GET API;
 (V) Accounts POST API;
 (V) Data table component;
+(V) Accounts bulk delete;
+(V) Accounts edit;
+(V) Categories API + UI;
+(V) Transactions API;
+(V) Transactions hooks;
+(V) Transactions form;
+( ) Transactions page;
 
 ## Commands
 `db:generate` - Generate Schema;
