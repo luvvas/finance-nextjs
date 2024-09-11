@@ -26,6 +26,10 @@
 (V) Transactions form;
 ( ) Transactions page;
 
+## Issues
+[FIXED] Column transactions.date does not exist;
+[NOT_FIXED]Wrong round amount (Ex: $10,50 === 11000);
+
 ## Commands
 `db:generate` - Generate Schema;
 `db:migrate` - Make migration;

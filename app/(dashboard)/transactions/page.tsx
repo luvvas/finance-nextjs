@@ -15,8 +15,8 @@ import { columns } from "./columns"
 
 const transactionsPage = () => {
     const newTransaction = useNewTransaction()
-    const transactionsQuery = useGetTransactions()
     const deleteTransactions = useBulkDeleteTransactions()
+    const transactionsQuery = useGetTransactions()
     const transactions = transactionsQuery.data || []
 
     const isDisabled = 
@@ -58,7 +58,7 @@ const transactionsPage = () => {
                             const ids = row.map((r) => r.original.id)
                             deleteTransactions.mutate({ ids })
                         }}
-                        filterKey="name"
+                        filterKey="payee"
                         columns={columns} 
                         data={transactions} 
                         disabled={isDisabled}

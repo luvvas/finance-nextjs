@@ -5,29 +5,8 @@
     {
       "idx": 0,
       "version": "5",
-      "when": 1724621764824,
-      "tag": "0000_classy_sinister_six",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "5",
-      "when": 1724622558917,
-      "tag": "0001_rare_thunderbolt",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "5",
-      "when": 1725480916690,
-      "tag": "0002_spooky_skreet",
-      "breakpoints": true
-    },
-    {
-      "idx": 3,
-      "version": "5",
-      "when": 1725500960828,
-      "tag": "0003_parched_thor",
+      "when": 1726079898998,
+      "tag": "0000_clear_gladiator",
       "breakpoints": true
     }
   ]
