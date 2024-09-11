@@ -24,7 +24,8 @@
 (V) Transactions API;
 (V) Transactions hooks;
 (V) Transactions form;
-( ) Transactions page;
+(V) Transactions page;
+( ) Transactions CSV import;
 
 ## Issues
 [FIXED] Column transactions.date does not exist;
