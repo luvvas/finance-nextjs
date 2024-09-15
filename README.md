@@ -26,7 +26,7 @@
 (V) Transactions form;
 (V) Transactions page;
 (V) Transactions CSV import;
-( ) Transactions account select
+(V) Transactions account select
 ( ) Summary API;
 ( ) Dashboard cards;
 ( ) Dashboard charts; 
@@ -44,6 +44,7 @@
 `db:studio` - Open DB;
 
 ## To study
+- Difference between inner join and left join;
 - `[[...name]]` in folder structure;
 - RPC (Sharing API specifications between server and client);
 
