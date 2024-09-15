@@ -25,7 +25,14 @@
 (V) Transactions hooks;
 (V) Transactions form;
 (V) Transactions page;
-( ) Transactions CSV import;
+(V) Transactions CSV import;
+( ) Transactions account select
+( ) Summary API;
+( ) Dashboard cards;
+( ) Dashboard charts; 
+( ) Dashboard pie;
+( ) Date & account filters;
+( ) Deployment;
 
 ## Issues
 [FIXED] Column transactions.date does not exist;
