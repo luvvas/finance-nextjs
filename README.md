@@ -27,7 +27,7 @@
 (V) Transactions page;
 (V) Transactions CSV import;
 (V) Transactions account select
-( ) Summary API;
+(V) Summary API;
 ( ) Dashboard cards;
 ( ) Dashboard charts; 
 ( ) Dashboard pie;
