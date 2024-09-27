@@ -28,10 +28,10 @@
 (V) Transactions CSV import;
 (V) Transactions account select
 (V) Summary API;
-( ) Dashboard cards;
-( ) Dashboard charts; 
-( ) Dashboard pie;
-( ) Date & account filters;
+(V) Dashboard cards;
+(V) Dashboard charts; 
+(V) Dashboard pie;
+(!) Date & account filters;
 ( ) Deployment;
 
 ## Issues
